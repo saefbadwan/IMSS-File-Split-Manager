@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IMSSFileSplitManager
+</name>
+</assembly>
+<members>
+<member name="F:IMSS_File_Split_Manager.OpenDirectoryDialog._DialogTitle">
+</member><member name="T:IMSS_File_Split_Manager.OpenDirectoryDialog.BROWSEINFO">
+</member><member name="M:IMSS_File_Split_Manager.OpenDirectoryDialog.CoTaskMemFree(System.IntPtr)">
+</member><member name="M:IMSS_File_Split_Manager.OpenDirectoryDialog.ShowDialog(System.Windows.Forms.IWin32Window)">
+</member><member name="P:IMSS_File_Split_Manager.OpenDirectoryDialog.DialogTitle">
+</member><member name="P:IMSS_File_Split_Manager.OpenDirectoryDialog.DirectoryName">
+</member><member name="T:IMSS_File_Split_Manager.OpenDirectoryDialog">
+</member><member name="P:IMSS_File_Split_Manager.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IMSS_File_Split_Manager.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:IMSS_File_Split_Manager.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
